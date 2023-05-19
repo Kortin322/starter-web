@@ -1,6 +1,6 @@
-#Starter Web Project
+<h1>Starter Web Project<h1>
 
-##Introduction
+<h2>Introduction<h2>
 
 ##Purpose
 
