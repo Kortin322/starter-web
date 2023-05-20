@@ -1,7 +1,6 @@
 <h1>Starter Web Project</h1>
 
-some text emae
-bababa
+another text here 
 <h2>Introduction</h2>
 qeqwesdkvjbnejkn 
 
